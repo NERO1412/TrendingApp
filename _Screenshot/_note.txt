@@ -1,0 +1,36 @@
+
+APK bundle generated, project folder 'TrendingAssigment'
+
+The project was developed with Android Studio and coded in kotlin
+(which not much experienced because mainly task coded with Java).
+
+--The project info--
+The package/library used:
+- Android Gradle (version 3.6.2 -> to support kotlin & minSdkVersion 19)
+- Kotlin (version 1.3.10)
+- Glide
+- Dagget Hilt
+- Coroutines
+- Retrofit + GSON
+- Room
+
+--Screenshot--
+1. Start app with airplane to test internet connection & show loading
+2. Show image, error text & button retry if no internet connection
+3. If have intenet connection, loading data from 
+   https://gh-trending-api.herokuapp.com/repositories 
+   and save to Android room. *delay 2 second
+4. Click to show hidden info & click again to hide hidden info
+5. Option menu top-right show to option (stars & name) *no function yet insert
+6. Show toast message after click the option menu
+7. Swipe down again to refresh data
+
+--Conclusion--
+Overall I am satisfy by giving this task because I have learned a lot of thing 
+for kotlin development and research interesting topics. 
+
+*Remark: This project is not uploaded to any project source site (GitHub, etc..)
+
+
+--Albert_Abas_A.W.--
+
