@@ -10,3 +10,5 @@ The project was developed with Android Studio and coded in Kotlin. Start app wit
   <img src="https://github.com/NERO1412/TrendingApp/blob/master/_Screenshot/6_toast_message_option_menu.jpg" width="150" alt="accessibility text">
   <img src="https://github.com/NERO1412/TrendingApp/blob/master/_Screenshot/7_swipe_down_to_refresh_data.jpg" width="150" alt="accessibility text">
 </p>
+
+*Remark: This was sample project for development on Kotlin Offline Caching. So, the API and project structure might have to change / update.
